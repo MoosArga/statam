@@ -1,0 +1,14 @@
+{
+  "name": "statam",
+  "version": "1.0.0",
+  "description": "Generate documentation of json data model schema (open api 3.0)",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {},
+  "author": "Moosarga",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  },
+  "type": "module"
+}
